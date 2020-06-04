@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tidy_sumo_logic/static/css/main.1bbec266.chunk.css",
+    "main.js": "/tidy_sumo_logic/static/js/main.539b1bb9.chunk.js",
+    "main.js.map": "/tidy_sumo_logic/static/js/main.539b1bb9.chunk.js.map",
+    "runtime-main.js": "/tidy_sumo_logic/static/js/runtime-main.dac845e4.js",
+    "runtime-main.js.map": "/tidy_sumo_logic/static/js/runtime-main.dac845e4.js.map",
+    "static/js/2.5c1118cb.chunk.js": "/tidy_sumo_logic/static/js/2.5c1118cb.chunk.js",
+    "static/js/2.5c1118cb.chunk.js.map": "/tidy_sumo_logic/static/js/2.5c1118cb.chunk.js.map",
+    "index.html": "/tidy_sumo_logic/index.html",
+    "precache-manifest.9bb5c20cee3eaa36cf94680c8e78bd03.js": "/tidy_sumo_logic/precache-manifest.9bb5c20cee3eaa36cf94680c8e78bd03.js",
+    "service-worker.js": "/tidy_sumo_logic/service-worker.js",
+    "static/css/main.1bbec266.chunk.css.map": "/tidy_sumo_logic/static/css/main.1bbec266.chunk.css.map",
+    "static/js/2.5c1118cb.chunk.js.LICENSE.txt": "/tidy_sumo_logic/static/js/2.5c1118cb.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/tidy_sumo_logic/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dac845e4.js",
+    "static/js/2.5c1118cb.chunk.js",
+    "static/css/main.1bbec266.chunk.css",
+    "static/js/main.539b1bb9.chunk.js"
+  ]
+}
