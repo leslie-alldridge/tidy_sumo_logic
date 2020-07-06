@@ -1,4 +1,4 @@
-https://leslie-alldridge.github.io/tidy_sumo_logic/
+[Link](https://leslie-alldridge.github.io/tidy_sumo_logic/)
 
 From time to time copy pasting sumo queries can put all the logic on one line or a complete mix of content
 
